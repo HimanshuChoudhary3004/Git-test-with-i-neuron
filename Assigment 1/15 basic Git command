@@ -1,15 +1,6 @@
-# git branch   ##to check which branch we are in currently
-# git status   ## to check the status 
-# git branch dev ## This will creat developer branch called "dev"
-# git add .     ## to add file in branch for tracking and committing purpose
-# git commit -m " commit name "  ##     This will commit the code in staging area
-# git push origin main  ## This will push file in Git repository 
-# git checkout dev ## This will switch the branch to dev
-# git branch -D old branch  ##This will delete the branch named "old branch"
-# git push origin main  ## This will push file in Git repository 
-# git config --username 
-# git config -- username.email 
-# git init
-# git diff
-# git pull
-# git merge abort  ###Thsi will abort the merge 
+# git config --username "user name "  ## to create user  
+# git config                          ## username.email ""user email"  # to create email of user 
+# git init                            ## to initialize new empty repository at remote 
+# git diff                            ## This will give the changes made in current directory
+# git pull                            ## This will be used to pull recentely updeated branch to avoid merge conflict
+# git merge abort                     ##Thsi will abort the merge 
