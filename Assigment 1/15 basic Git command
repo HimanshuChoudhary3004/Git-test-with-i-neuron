@@ -1,0 +1,8 @@
+# git branch   ##to check which branch we are in currently
+# git status   ## to check the status 
+# git branch dev ## This will creat developer branch called "dev"
+# git add .     ## to add file in branch for tracking and committing purpose
+# git commit -m " commit name "  ##     This will commit the code in staging area
+# git push origin main  ## This will push file in Git repository 
+# git checkout dev ## This will switch the branch to dev
+# git branch -D old branch  ##This will delete the branch named "old branch"
